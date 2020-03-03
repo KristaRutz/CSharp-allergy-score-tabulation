@@ -10,10 +10,15 @@ This application allows you to determine the types of allergies a person has bas
 
 ## Specs
 
-- _Spec: _
+- _Spec: The application should be able to return an allergy if the number entered is equal to the score of an allergy listed._
 
-  - Input:
-  - Output:
+  - Input: 8
+  - Output: Strawberries
+
+- _Spec: The application should be able to return multiple allergies if the number entered is a combination of the allergy scores._
+
+  - Input: 10
+  - Output: Peanuts, Strawberries
 
 ## Setup/Installation Requirements
 
