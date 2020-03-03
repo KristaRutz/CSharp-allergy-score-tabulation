@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/projects/Allergies.Solution/Allergies/obj/Debug/netcoreapp2.2/Allergies.csprojAssemblyReference.cache
+/Users/Guest/Desktop/projects/Allergies.Solution/Allergies/obj/Debug/netcoreapp2.2/Allergies.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/projects/Allergies.Solution/Allergies/obj/Debug/netcoreapp2.2/Allergies.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/projects/Allergies.Solution/Allergies/obj/Debug/netcoreapp2.2/Allergies.AssemblyInfo.cs
+/Users/Guest/Desktop/projects/Allergies.Solution/Allergies/bin/Debug/netcoreapp2.2/Allergies.deps.json
+/Users/Guest/Desktop/projects/Allergies.Solution/Allergies/bin/Debug/netcoreapp2.2/Allergies.runtimeconfig.json
+/Users/Guest/Desktop/projects/Allergies.Solution/Allergies/bin/Debug/netcoreapp2.2/Allergies.runtimeconfig.dev.json
+/Users/Guest/Desktop/projects/Allergies.Solution/Allergies/bin/Debug/netcoreapp2.2/Allergies.dll
+/Users/Guest/Desktop/projects/Allergies.Solution/Allergies/bin/Debug/netcoreapp2.2/Allergies.pdb
+/Users/Guest/Desktop/projects/Allergies.Solution/Allergies/obj/Debug/netcoreapp2.2/Allergies.dll
+/Users/Guest/Desktop/projects/Allergies.Solution/Allergies/obj/Debug/netcoreapp2.2/Allergies.pdb
